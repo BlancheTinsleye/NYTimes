@@ -2,7 +2,7 @@
 // const API_URL =
 // 'https://api.nytimes.com/svc/topstories/v2/arts.json?api-key={token}';
 
-const API_URL = '/topstories_science.json';
+const API_URL = 'topstories_science.json';
 
 const TopNews = document.getElementById('try');
 
