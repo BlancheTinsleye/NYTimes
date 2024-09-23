@@ -1,0 +1,163 @@
+body {
+    background-color: #f4dfc4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@font-face {
+    font-family: OldLondon;
+    src: url(FONTS/OldLondon.ttf);
+}
+
+@font-face {
+    font-family: Berkahi;
+    src: url(FONTS/Berkahi\ Blackletter.ttf);
+}
+
+main {
+    width: fit-content;
+    /* width: auto; */
+}
+
+header {
+    /* display: flex; */
+    border-top: 2px solid #372d3a;
+    border-bottom: 2px solid #372d3a;
+}
+
+.title {
+    border-top: 1px solid #473a3a;
+    border-bottom: 1px solid #473a3a;
+    margin: 3px;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+h1 {
+    font-family: Berkahi;
+    color: #483628;
+    font-size: 35px;
+    margin: 10px;
+}
+
+#try {
+    display: flex;
+    flex-direction: column;
+}
+
+.article1, .article2 {
+    display: grid;
+    grid-template-columns: auto;
+    place-items: center;
+
+    border-top: 2px solid #372d3a;
+    border-bottom: 2px solid #372d3a;
+
+    margin-top: 1vb;
+    margin-bottom: 1vb;
+}
+
+.news_cont1, .news_cont2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-top: 1px solid #473a3a;
+    border-bottom: 1px solid #473a3a;
+
+    width: 95%;
+    height: 97%;
+}
+
+img {
+    /* display: none; */
+    height: 170px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    /* background-color: #483628; */
+}
+
+h2, p {
+    font-family: 'Courier New';
+    font-size: 12px;
+    width: 230px;
+    color: #473a3a;
+}
+
+span {
+    font-weight: bolder;
+}
+
+#logo {
+    /* height: auto; */
+    /* height: 200px; */
+    width: 200px;
+    object-fit: contain;
+}
+
+footer {
+    height: 60vh;
+    display: grid;
+    grid-template-columns: auto;
+}
+
+#logo {
+    /* display: block; */
+}
+
+@media (min-width: 1024px) {
+    .title {
+        margin: 1.2rem;
+    }
+
+    h1 {
+        font-size: 5rem;
+        margin: 2rem;
+    }
+    main {
+        width: 1000px;
+    }
+
+    .article1, .article2 {
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+
+        /* width: 1024px; */
+    }
+
+    .news_cont1, .news_cont2 {
+        display: grid;
+        grid-template-columns: auto auto;
+        /* flex-direction: row; */
+    }
+    
+    
+    .right {
+        order: 1;
+    }
+
+    .info_cont2 {
+        /* width: auto; */
+    }
+
+    #try {
+        /* width: auto; */
+    }
+
+    h2, p {
+        font-size: 1.2rem;
+        width: 30rem;
+    }
+
+    .images {
+        height: 15rem;
+    }
+
+    #logo {
+        height: 200px;
+    }
+}
