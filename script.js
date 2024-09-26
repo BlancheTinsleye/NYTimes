@@ -2,8 +2,8 @@
 // const API_URL =
 // 'https://api.nytimes.com/svc/topstories/v2/arts.json?api-key={token}';
 
-// const API_URL = 'topstories_science.json';
-const API_URL = 'https://api.nytimes.com/svc/topstories/v2/science.json?api-key=bSoOkIDZ5I4Hu65w2Ikvg9ugGBgBCpQp';
+const API_URL = 'topstories_science.json';
+// const API_URL = 'https://api.nytimes.com/svc/topstories/v2/science.json?api-key=bSoOkIDZ5I4Hu65w2Ikvg9ugGBgBCpQp';
 
 
 const TopNews = document.getElementById('SCIENCE');
@@ -44,11 +44,11 @@ const updateContainer = (data) => {
         <div class="news_cont1">
           <div class = "left">${multimediaHtml}</div>
           <div class = "info_cont1">
-            <h2>${news?.title}</h2>
-            <p><span>SECTION:</span> &nbsp ${news?.section}</p>
-            <p><span>ABSTRACT:</span> &nbsp ${news?.abstract}</p>
-            <p id="dates"><span>DATE CREATED:</span> &nbsp ${news?.created_date}</p>
-            <p id="dates"><span>PUBLISHED:</span> &nbsp ${news?.published_date}</p>
+            <h3>${news?.title}</h3>
+            <p><span>SECTION:</span> ${news?.section}</p>
+            <p><span>ABSTRACT:</span> ${news?.abstract}</p>
+            <p id="dates"><span>DATE CREATED:</span> ${news?.created_date}</p>
+            <p id="dates"><span>PUBLISHED:</span> ${news?.published_date}</p>
           </div>
         </div>
       `;
@@ -59,11 +59,11 @@ const updateContainer = (data) => {
         <div class="news_cont2">
           <div class = "right">${multimediaHtml}</div>
           <div class = "info_cont2">
-          <h2>${news?.title}</h2>
-            <p><span>SECTION:</span> &nbsp ${news?.section}</p>
-            <p><span>ABSTRACT:</span> &nbsp ${news?.abstract}</p>
-            <p id="dates"><span>DATE CREATED:</span> &nbsp ${news?.created_date}</p>
-            <p id="dates"><span>PUBLISHED:</span> &nbsp ${news?.published_date}</p>
+          <h3>${news?.title}</h3>
+            <p><span>SECTION:</span> ${news?.section}</p>
+            <p><span>ABSTRACT:</span> ${news?.abstract}</p>
+            <p id="dates"><span>DATE CREATED:</span> ${news?.created_date}</p>
+            <p id="dates"><span>PUBLISHED:</span> ${news?.published_date}</p>
           </div>
         </div>
       `;

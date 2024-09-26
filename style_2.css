@@ -15,10 +15,24 @@ body {
     src: url(FONTS/Berkahi\ Blackletter.ttf);
 }
 
+@font-face {
+    font-family: Typewriter;
+    src: url(FONTS/typewcond_regular.otf);
+}
+
+@font-face {
+    font-family: Typewriter_bold;
+    src: url(FONTS/typewcond_bold.otf);
+}
+
 main {
     width: fit-content;
     /* width: auto; */
+
+    border: 2px solid #483628;
 }
+
+
 
 header {
     /* display: flex; */
@@ -48,6 +62,15 @@ h1 {
     flex-direction: column;
 }
 
+.science_cont {
+    display: flex;
+    flex-direction: column;
+
+    margin: 1vb;
+
+    border: 1px solid #483628;
+}
+
 .article1, .article2 {
     display: grid;
     grid-template-columns: auto;
@@ -56,8 +79,9 @@ h1 {
     border-top: 2px solid #372d3a;
     border-bottom: 2px solid #372d3a;
 
-    margin-top: 1vb;
-    margin-bottom: 1vb;
+    margin: 1vb;
+    /* margin-top: 1vb;
+    margin-bottom: 1vb; */
 }
 
 .news_cont1, .news_cont2 {
@@ -81,9 +105,27 @@ img {
     /* background-color: #483628; */
 }
 
-h2, p {
-    font-family: 'Courier New';
+h2 {
+    font-family: 'Typewriter';
+    font-size: 30px;
+    /* font-weight: 10; */
+    /* width: 230px; */
+    color: #473a3a;
+
+    margin: 2vb;
+    align-self: center;
+}
+
+p {
+    font-family: 'Typewriter';
     font-size: 12px;
+    width: 230px;
+    color: #473a3a;
+}
+
+h3 {
+    font-family: 'Typewriter';
+    font-size: 20px;
     width: 230px;
     color: #473a3a;
 }
@@ -109,7 +151,7 @@ footer {
     /* display: block; */
 }
 
-.news_cont1, .article1, h2, p {
+.news_cont1, .article1, h3, p {
     transition: color 0.7s,
     border-top 0.7s,
     border-bottom 0.7s,
@@ -129,11 +171,11 @@ footer {
 
 }
 
-.article1:hover h2, .article1:hover p {
+.article1:hover h3, .article1:hover p {
     color: #f4dfc4;
 }
 
-.news_cont2, .article2, h2, p {
+.news_cont2, .article2, h3, p {
     transition: color 0.7s,
     border-top 0.7s,
     border-bottom 0.7s,
@@ -153,7 +195,7 @@ footer {
 
 }
 
-.article2:hover h2, .article2:hover p {
+.article2:hover h3, .article2:hover p {
     color: #f4dfc4;
 }
 
@@ -166,6 +208,11 @@ footer {
         font-size: 5rem;
         margin: 2rem;
     }
+
+    h2 {
+        font-size: 3rem;
+    }
+
     main {
         width: 1000px;
     }
@@ -196,8 +243,15 @@ footer {
         /* width: auto; */
     }
 
-    h2, p {
+    p {
         font-size: 1.2rem;
+        width: 30rem;
+    }
+
+
+
+    h3 {
+        font-size: 2rem;
         width: 30rem;
     }
 
