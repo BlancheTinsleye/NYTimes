@@ -5,12 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NYTIMES</title>
 
-    <script type="module" src="script.js" defer></script>
+    <script type="module" src="scripts.js"></script>
+    <!-- <script type="module" src="script_science.js" defer></script> -->
+    <!-- <script type="module" src="script_world.js"></script> -->
     <link rel="stylesheet" href="style_2.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
 </head>
 <body>
     <main>
@@ -18,14 +20,18 @@
             <div class="title">
                 <h1 class="nyt">New York Times</h1>
             </div>
+            <nav>
+                <a href="#scie_cont">scie</a>
+                <a href="#world_cont">world</a>
+            </nav>
         </header>
         <div class="science_cont">
-            <h2>S C I E N C E</h2>
+            <h2 id="scie_cont">S C I E N C E</h2>
             <div id="SCIENCE"></div>
         </div>
-        <div class="arts_cont">
-            <h2>ARTS</h2>
-            <div id="ARTS"></div>
+        <div class="world_cont">
+            <h2 id="world_cont">W O R L D</h2>
+            <div id="WORLD"></div>
         </div>
         
     </main>

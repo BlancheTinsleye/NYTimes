@@ -62,14 +62,14 @@ h1 {
     flex-direction: column;
 }
 
-.science_cont {
+/* .science_cont, .world_cont {
     display: flex;
     flex-direction: column;
 
     margin: 1vb;
 
     border: 1px solid #483628;
-}
+} */
 
 .article1, .article2 {
     display: grid;
@@ -199,7 +199,25 @@ footer {
     color: #f4dfc4;
 }
 
+@media (max-width: 320px) {
+    .science_cont, .world_cont {
+    display: flex;
+    flex-direction: column;
+
+    margin: 1vb;
+
+    /* border: 1px solid #483628;            */
+}
+}
+
 @media (min-width: 1024px) {
+    .science_cont, .world_cont {
+        display: flex;
+        flex-direction: column;
+    
+        margin: 1vb;
+    }
+
     .title {
         margin: 1.2rem;
     }
