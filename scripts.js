@@ -2,10 +2,10 @@
 // const API_URL =
 // 'https://api.nytimes.com/svc/topstories/v2/arts.json?api-key={token}';
 
-const API_URL_scie = 'topstories_science.json';
-const API_URL_world = 'topstories_world.json';
-// const API_URL_scie = 'https://api.nytimes.com/svc/topstories/v2/science.json?api-key=bSoOkIDZ5I4Hu65w2Ikvg9ugGBgBCpQp';
-// const API_URL_world = 'https://api.nytimes.com/svc/topstories/v2/science.json?api-key=bSoOkIDZ5I4Hu65w2Ikvg9ugGBgBCpQp';
+// const API_URL_scie = 'topstories_science.json';
+// const API_URL_world = 'topstories_world.json';
+const API_URL_scie = 'https://api.nytimes.com/svc/topstories/v2/science.json?api-key=bSoOkIDZ5I4Hu65w2Ikvg9ugGBgBCpQp';
+const API_URL_world = 'https://api.nytimes.com/svc/topstories/v2/science.json?api-key=bSoOkIDZ5I4Hu65w2Ikvg9ugGBgBCpQp';
 
 const TopNews_scie = document.getElementById('SCIENCE');
 const TopNews_world = document.getElementById('WORLD');
