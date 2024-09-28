@@ -1,0 +1,19 @@
+{
+  "name": "ashley",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build NYTIMES/index.html && cp NYTIMES/topstories_science.json dist/",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "serve NYTIMES/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
