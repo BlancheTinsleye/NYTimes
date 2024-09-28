@@ -1,0 +1,2319 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2024-09-25T15:41:58-04:00",
+    "num_results": 37,
+    "results": [
+        {
+            "section": "",
+            "subsection": "",
+            "title": "Iranian-Backed Group in Iraq Hits Southern Israel",
+            "abstract": "A drone launched by the Islamic Resistance of Iraq struck the port city of Eilat. In the north, the top Israeli general told troops to prepare for a possible incursion into Lebanon.",
+            "url": "https://www.nytimes.com/live/2024/09/25/world/israel-gaza-hamas-hezbollah",
+            "uri": "nyt://promo/f0f35612-5791-5bba-93f4-805155020a6f",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T03:33:51-04:00",
+            "created_date": "2024-09-25T06:15:19-04:00",
+            "published_date": "2024-09-25T06:15:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-promo5p/25mideast-crisis-carousel-Shmona-bzfm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-promo5p/25mideast-crisis-carousel-Shmona-bzfm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-promo5p/25mideast-crisis-carousel-Shmona-bzfm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israeli Bulldozers Flatten Mile After Mile in the West Bank",
+            "abstract": "Videos from Tulkarm and Jenin show bulldozers destroying infrastructure and businesses, as well as soldiers impeding local emergency responders.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/west-bank-raids.html",
+            "uri": "nyt://article/f87841dc-4523-5f01-a44d-f8288b75ddb3",
+            "byline": "By Erika Solomon, Lauren Leatherby and Aric Toler",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T15:35:10-04:00",
+            "created_date": "2024-09-25T05:04:19-04:00",
+            "published_date": "2024-09-25T05:04:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "vis-video",
+                "Israel-Gaza War (2023- )"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "West Bank",
+                "Jenin (West Bank)",
+                "Tulkarm (West Bank)",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/autossell/18westbank-promo32still/18westbank-promo32still-superJumbo-v3.png",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 1620,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/autossell/18westbank-promo32still/18westbank-promo32still-threeByTwoSmallAt2X-v3.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/autossell/18westbank-promo32still/18westbank-promo32still-thumbLarge-v3.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "As Zelensky Calls for Global Focus on Ukraine, Putin Rattles Nuclear Sabers",
+            "abstract": "Hours after the Ukrainian president appealed for the West’s continued support, Russia’s authoritarian leader, Vladimir V. Putin, moved to significantly ease the circumstances under which his country might counter with nuclear weapons.",
+            "url": "https://www.nytimes.com/live/2024/09/25/world/united-nations-zelensky-speeches",
+            "uri": "nyt://promo/b6c9c95f-eba0-592a-b468-d85f86289f93",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-25T23:46:13-04:00",
+            "created_date": "2024-09-25T09:02:48-04:00",
+            "published_date": "2024-09-25T09:02:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-promo-5pm/25unga-live-reportersupdate13-hfjz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-promo-5pm/25unga-live-reportersupdate13-hfjz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-promo-5pm/25unga-live-reportersupdate13-hfjz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "France’s Horrifying Rape Trial Has a Feminist Hero",
+            "abstract": "Gisèle Pelicot waived anonymity to make public the trial of her former husband and the 50 men accused of joining him in raping her. Her poise and courage have made her an icon.",
+            "url": "https://www.nytimes.com/2024/09/25/world/europe/france-rape-trial-gisele-pelicot.html",
+            "uri": "nyt://article/c8014791-552c-5f91-a6e8-cdca46fcff72",
+            "byline": "By Catherine Porter and Ségolène Le Stradic",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:39:16-04:00",
+            "created_date": "2024-09-25T05:12:31-04:00",
+            "published_date": "2024-09-25T05:12:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sex Crimes",
+                "Women's Rights",
+                "Women and Girls",
+                "Courts and the Judiciary"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Pelicot, Dominique",
+                "Pelicot, Gisele"
+            ],
+            "geo_facet": [
+                "France",
+                "Avignon (France)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/00france-rape-giselle-lvjt/00france-rape-giselle-lvjt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gisèle Pelicot, center, with her lawyers outside the courthouse in Avignon, France, this month.",
+                    "copyright": "Christophe Simon/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/00france-rape-giselle-lvjt/00france-rape-giselle-lvjt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gisèle Pelicot, center, with her lawyers outside the courthouse in Avignon, France, this month.",
+                    "copyright": "Christophe Simon/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/00france-rape-giselle-lvjt/00france-rape-giselle-lvjt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gisèle Pelicot, center, with her lawyers outside the courthouse in Avignon, France, this month.",
+                    "copyright": "Christophe Simon/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Iran’s Dilemma: How to Preserve Its Proxies and Avoid Full-Scale War",
+            "abstract": "Iran says Israel wants to trap it into a direct conflict by bombing Hezbollah, even as a new Iranian president tries outreach to the West.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/iran-israel-hezbollah.html",
+            "uri": "nyt://article/f9382290-bb31-53cb-a501-b259c2ee64b9",
+            "byline": "By Steven Erlanger",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:40:31-04:00",
+            "created_date": "2024-09-25T05:05:53-04:00",
+            "published_date": "2024-09-25T05:05:53-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "Iran-Israel Proxy Conflict",
+                "International Relations",
+                "Israel-Gaza War (2023- )",
+                "Embargoes and Sanctions",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Pezeshkian, Masoud"
+            ],
+            "geo_facet": [
+                "Iran",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25iran-assess-cjwz/25iran-assess-cjwz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Masoud Pezeshkian of Iran told the United Nations General Assembly on Tuesday that Israel was seeking to trap his country into a wider war.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25iran-assess-cjwz/25iran-assess-cjwz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Masoud Pezeshkian of Iran told the United Nations General Assembly on Tuesday that Israel was seeking to trap his country into a wider war.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25iran-assess-cjwz/25iran-assess-cjwz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Masoud Pezeshkian of Iran told the United Nations General Assembly on Tuesday that Israel was seeking to trap his country into a wider war.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Africa’s Youngest Elected Leader Wants a New World Order",
+            "abstract": "In his first interview with Western media since becoming president of Senegal, Bassirou Diomaye Faye said the United Nations has to change to reflect changing world demographics.",
+            "url": "https://www.nytimes.com/2024/09/25/world/africa/president-senegal-bassirou-diomaye-faye.html",
+            "uri": "nyt://article/e4c8f782-713d-524d-839c-27ac65c932c9",
+            "byline": "By Ruth Maclean",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T14:09:29-04:00",
+            "created_date": "2024-09-25T05:06:09-04:00",
+            "published_date": "2024-09-25T05:06:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Youth",
+                "Illegal Immigration",
+                "Global Warming",
+                "Offshore Drilling and Exploration",
+                "Legislatures and Parliaments"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Faye, Bassirou Diomaye",
+                "Sall, Macky",
+                "Sonko, Ousmane"
+            ],
+            "geo_facet": [
+                "Senegal",
+                "Africa"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25senegal-president-cmhp/25senegal-president-cmhp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Bassirou Diomaye Faye of Senegal in the presidential palace in Dakar, the capital, on Friday.",
+                    "copyright": "Carmen Abd Ali for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25senegal-president-cmhp/25senegal-president-cmhp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Bassirou Diomaye Faye of Senegal in the presidential palace in Dakar, the capital, on Friday.",
+                    "copyright": "Carmen Abd Ali for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25senegal-president-cmhp/25senegal-president-cmhp-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Bassirou Diomaye Faye of Senegal in the presidential palace in Dakar, the capital, on Friday.",
+                    "copyright": "Carmen Abd Ali for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "How Canadians Fell Out of Love With Justin Trudeau",
+            "abstract": "Canada’s Liberals are reeling from a string of setbacks, even as the party survived a no-confidence vote in Parliament on Wednesday.",
+            "url": "https://www.nytimes.com/2024/09/25/world/europe/trudeau-confidence-vote-canada.html",
+            "uri": "nyt://article/4442ce9d-c553-5fd5-98e9-fec26eb78212",
+            "byline": "By Matina Stevis-Gridneff",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:45:13-04:00",
+            "created_date": "2024-09-25T05:02:51-04:00",
+            "published_date": "2024-09-25T05:02:51-04:00",
+            "material_type_facet": "",
+            "kicker": "news analysis",
+            "des_facet": [
+                "Elections",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Conservative Party (Canada)",
+                "Liberal Party (Canada)",
+                "New Democratic Party (Canada)"
+            ],
+            "per_facet": [
+                "Poilievre, Pierre",
+                "Trudeau, Justin"
+            ],
+            "geo_facet": [
+                "Canada"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25canada-trudeau-01-zbmt/25canada-trudeau-01-zbmt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1367,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Justin Trudeau of Canada arriving for a meeting in Ottawa last week with the emir of Qatar, Sheikh Tamim bin Hamad al-Thani.",
+                    "copyright": "Blair Gable/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25canada-trudeau-01-zbmt/25canada-trudeau-01-zbmt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Justin Trudeau of Canada arriving for a meeting in Ottawa last week with the emir of Qatar, Sheikh Tamim bin Hamad al-Thani.",
+                    "copyright": "Blair Gable/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25canada-trudeau-01-zbmt/25canada-trudeau-01-zbmt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Justin Trudeau of Canada arriving for a meeting in Ottawa last week with the emir of Qatar, Sheikh Tamim bin Hamad al-Thani.",
+                    "copyright": "Blair Gable/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Online Scammers Posed as Brad Pitt to Get Cash, Spanish Police Say",
+            "abstract": "The authorities in Spain said they had arrested five people who posed as the famous American actor online and swindled two women out of more than $350,000.",
+            "url": "https://www.nytimes.com/2024/09/25/world/europe/spain-brad-pitt.html",
+            "uri": "nyt://article/ea56bda4-9946-5d2c-a6b1-7451b729e733",
+            "byline": "By Rachel Chaundler and Amelia Nierenberg",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:54:21-04:00",
+            "created_date": "2024-09-25T09:24:43-04:00",
+            "published_date": "2024-09-25T09:24:43-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Frauds and Swindling",
+                "Impostors (Criminal)",
+                "Actors and Actresses",
+                "Computers and the Internet",
+                "Cyberharassment"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Pitt, Brad"
+            ],
+            "geo_facet": [
+                "Spain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24spain-bradpitt-bmcz/24spain-bradpitt-bmcz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brad Pitt in Los Angeles last week. His publicist said the actor had no authorized social media accounts.",
+                    "copyright": "Jordan Strauss/Invision, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24spain-bradpitt-bmcz/24spain-bradpitt-bmcz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brad Pitt in Los Angeles last week. His publicist said the actor had no authorized social media accounts.",
+                    "copyright": "Jordan Strauss/Invision, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24spain-bradpitt-bmcz/24spain-bradpitt-bmcz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brad Pitt in Los Angeles last week. His publicist said the actor had no authorized social media accounts.",
+                    "copyright": "Jordan Strauss/Invision, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "China Says It Launched a Rocket With a Dummy Warhead Into the Pacific",
+            "abstract": "The ballistic missile launch is a sign of the commitment of Xi Jinping, China’s leader, to continue strengthening the country’s Rocket Force and to project power in Asia.",
+            "url": "https://www.nytimes.com/2024/09/25/world/asia/china-missile-rocket-force.html",
+            "uri": "nyt://article/55b1b377-a35a-5b92-a16b-45439a697987",
+            "byline": "By Chris Buckley",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:52:15-04:00",
+            "created_date": "2024-09-25T03:38:01-04:00",
+            "published_date": "2024-09-25T03:38:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Missiles and Missile Defense Systems",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [
+                "Communist Party of China",
+                "People's Liberation Army (China)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25CHINA-MISSILE-lhjk/25CHINA-MISSILE-lhjk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1256,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chinese military’s DF-41 intercontinental ballistic missiles at a parade at Tiananmen Square in Beijing in 2019.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25CHINA-MISSILE-lhjk/25CHINA-MISSILE-lhjk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chinese military’s DF-41 intercontinental ballistic missiles at a parade at Tiananmen Square in Beijing in 2019.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25CHINA-MISSILE-lhjk/25CHINA-MISSILE-lhjk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chinese military’s DF-41 intercontinental ballistic missiles at a parade at Tiananmen Square in Beijing in 2019.",
+                    "copyright": "Kevin Frayer/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Taiwan and U.S. Work to Counter China’s Drone Dominance",
+            "abstract": "Officials hope that Taiwan can become a bigger player in the supply chain for drones, a move that would also help blunt any threats posed to the island by China.",
+            "url": "https://www.nytimes.com/2024/09/25/world/asia/us-taiwan-drones-china.html",
+            "uri": "nyt://article/49c379e1-8bce-5ade-acdf-1ab4dd818bf0",
+            "byline": "By Chris Buckley and Amy Chang Chien",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T22:51:55-04:00",
+            "created_date": "2024-09-25T00:04:53-04:00",
+            "published_date": "2024-09-25T00:04:53-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drones (Pilotless Planes)",
+                "International Relations",
+                "Defense and Military Forces",
+                "Territorial Disputes"
+            ],
+            "org_facet": [
+                "DJI Innovations",
+                "AeroVironment Inc",
+                "SZ DJI Technology Co Ltd"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Taipei (Taiwan)",
+                "China",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25TAIWAN-DRONES-01-zqcf/25TAIWAN-DRONES-01-zqcf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A drone developed in Taiwan, on display in 2022. Taiwan plans to expand its military drone arsenal. ",
+                    "copyright": "Walid Berrazeg/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25TAIWAN-DRONES-01-zqcf/25TAIWAN-DRONES-01-zqcf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A drone developed in Taiwan, on display in 2022. Taiwan plans to expand its military drone arsenal. ",
+                    "copyright": "Walid Berrazeg/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25TAIWAN-DRONES-01-zqcf/25TAIWAN-DRONES-01-zqcf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A drone developed in Taiwan, on display in 2022. Taiwan plans to expand its military drone arsenal. ",
+                    "copyright": "Walid Berrazeg/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "A Litmus Test in Japan: Should Spouses Be Able to Have Different Surnames?",
+            "abstract": "The nine candidates vying to become prime minister have been differentiated by their stances on a law requiring married couples to share a family name.",
+            "url": "https://www.nytimes.com/2024/09/25/world/asia/japan-election-surnames.html",
+            "uri": "nyt://article/ba80366a-b102-5851-8b1c-27a2e8cb7683",
+            "byline": "By Motoko Rich and Kiuko Notoya",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:50:39-04:00",
+            "created_date": "2024-09-25T00:01:15-04:00",
+            "published_date": "2024-09-25T00:01:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Names, Personal",
+                "Elections",
+                "Women's Rights",
+                "Marriages"
+            ],
+            "org_facet": [
+                "Liberal Democratic Party (Japan)"
+            ],
+            "per_facet": [
+                "Ishiba, Shigeru",
+                "Kishida, Fumio",
+                "Koizumi, Shinjiro",
+                "Takaichi, Sanae"
+            ],
+            "geo_facet": [
+                "Japan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25japan-election-fhgv/25japan-election-fhgv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A wedding ceremony at a Shinto shrine in Tokyo.",
+                    "copyright": "Androniki Christodoulou/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25japan-election-fhgv/25japan-election-fhgv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A wedding ceremony at a Shinto shrine in Tokyo.",
+                    "copyright": "Androniki Christodoulou/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25japan-election-fhgv/25japan-election-fhgv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A wedding ceremony at a Shinto shrine in Tokyo.",
+                    "copyright": "Androniki Christodoulou/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Ukrainian Poet and Rock Star Fights Near Front and Performs Behind It",
+            "abstract": "Serhiy Zhadan, 50, is a beloved Ukrainian poet as well as a novelist, lyricist and rock star. Furious over the invasion, he enlisted to fight even as his band still plays and his readings fill halls.",
+            "url": "https://www.nytimes.com/2024/09/24/world/europe/ukraine-serhiy-zhadan-poetry.html",
+            "uri": "nyt://article/63d338b3-e884-5a7c-9dde-4ce12f268c02",
+            "byline": "By Carlotta Gall and Oleksandr Chubko",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:22:21-04:00",
+            "created_date": "2024-09-24T05:02:04-04:00",
+            "published_date": "2024-09-24T05:02:04-04:00",
+            "material_type_facet": "",
+            "kicker": "The Global Profile",
+            "des_facet": [
+                "Poetry and Poets",
+                "Russian Invasion of Ukraine (2022)",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Zhadan, Serhiy (1974- )"
+            ],
+            "geo_facet": [
+                "Kharkiv (Ukraine)",
+                "Ukraine",
+                "Russia",
+                "Donbas (Ukraine)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20ukraine-zhadan-profile-01-clhp/20ukraine-zhadan-profile-01-clhp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Serhiy Zhadan, a Ukrainian poet, rock star and now a soldier, at a military position in the Kharkiv region of Ukraine, in July. There is a Russian bounty on his head.",
+                    "copyright": "David Guttenfelder for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20ukraine-zhadan-profile-01-clhp/20ukraine-zhadan-profile-01-clhp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Serhiy Zhadan, a Ukrainian poet, rock star and now a soldier, at a military position in the Kharkiv region of Ukraine, in July. There is a Russian bounty on his head.",
+                    "copyright": "David Guttenfelder for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20ukraine-zhadan-profile-01-clhp/20ukraine-zhadan-profile-01-clhp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Serhiy Zhadan, a Ukrainian poet, rock star and now a soldier, at a military position in the Kharkiv region of Ukraine, in July. There is a Russian bounty on his head.",
+                    "copyright": "David Guttenfelder for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "In Lebanon’s Capital, Israel’s Strikes Stoke Fears of a Full-On War",
+            "abstract": "With Monday’s attacks across southern Lebanon, the prospect of the escalating conflict enveloping the city has suddenly become real for many Beirut residents.",
+            "url": "https://www.nytimes.com/2024/09/24/world/middleeast/lebanon-beirut-israel-strikes.html",
+            "uri": "nyt://article/fe021cb2-a792-5dfd-8f5f-b4fa8104e5e7",
+            "byline": "By Christina Goldbaum and Hwaida Saad",
+            "item_type": "Article",
+            "updated_date": "2024-09-24T23:34:47-04:00",
+            "created_date": "2024-09-24T00:01:14-04:00",
+            "published_date": "2024-09-24T00:01:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Defense and Military Forces",
+                "International Relations",
+                "Politics and Government",
+                "Civilian Casualties"
+            ],
+            "org_facet": [
+                "Hezbollah"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Beirut (Lebanon)",
+                "Lebanon",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24lebanon-mood-1-cvjk/24lebanon-mood-1-cvjk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A gas station Beirut, Lebanon, on Monday. Some Lebanese fled, or prepared to do so, amid the Israeli strikes.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24lebanon-mood-1-cvjk/24lebanon-mood-1-cvjk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A gas station Beirut, Lebanon, on Monday. Some Lebanese fled, or prepared to do so, amid the Israeli strikes.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24lebanon-mood-1-cvjk/24lebanon-mood-1-cvjk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A gas station Beirut, Lebanon, on Monday. Some Lebanese fled, or prepared to do so, amid the Israeli strikes.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "How a Leftist Delivered Sri Lanka’s Biggest Political Jolt in Decades",
+            "abstract": "Anura Kumara Dissanayake offered his broad leftist coalition as the best hope for a different political culture, one not ruled by nepotism and corruption.",
+            "url": "https://www.nytimes.com/2024/09/24/world/asia/sri-lanka-election.html",
+            "uri": "nyt://article/ca03d0e9-8c76-5bb6-b421-5ed261efd9cd",
+            "byline": "By Mujib Mashal and Pamodi Waravita",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T11:50:57-04:00",
+            "created_date": "2024-09-24T05:47:09-04:00",
+            "published_date": "2024-09-24T05:47:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Elections",
+                "Economic Conditions and Trends",
+                "Nepotism",
+                "Corruption (Institutional)",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Janatha Vimukthi Peramuna (Sri Lankan Political Party)",
+                "United National Party (Sri Lanka)"
+            ],
+            "per_facet": [
+                "Dissanayake, Anura Kumara",
+                "Rajapaksa, Mahinda",
+                "Rajapaksa, Gotabaya"
+            ],
+            "geo_facet": [
+                "Sri Lanka"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24srilanka-assess-01-bctk/24srilanka-assess-01-bctk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anura Kumara Dissanayake departing the election commission office after winning the Sri Lankan presidential election in Colombo, Sri Lanka, on Sunday.",
+                    "copyright": "Eranga Jayawardena/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24srilanka-assess-01-bctk/24srilanka-assess-01-bctk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anura Kumara Dissanayake departing the election commission office after winning the Sri Lankan presidential election in Colombo, Sri Lanka, on Sunday.",
+                    "copyright": "Eranga Jayawardena/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24srilanka-assess-01-bctk/24srilanka-assess-01-bctk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Anura Kumara Dissanayake departing the election commission office after winning the Sri Lankan presidential election in Colombo, Sri Lanka, on Sunday.",
+                    "copyright": "Eranga Jayawardena/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Johnson, House Speaker, Demands That Ukraine Fire Its U.S. Ambassador",
+            "abstract": "The public call deals a blow to Kyiv’s efforts to avoid the partisan acrimony of the U.S. presidential campaign as it tries to rally support for its cause.",
+            "url": "https://www.nytimes.com/2024/09/26/world/europe/mike-johnson-ukraine-us-ambassador.html",
+            "uri": "nyt://article/ff8b29ba-1d59-5645-b6ff-5c77745a2a42",
+            "byline": "By Constant Méheut",
+            "item_type": "Article",
+            "updated_date": "2024-09-26T04:45:04-04:00",
+            "created_date": "2024-09-26T04:45:04-04:00",
+            "published_date": "2024-09-26T04:45:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Presidential Election of 2024",
+                "Russian Invasion of Ukraine (2022)",
+                "Foreign Aid"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Johnson, Mike (1972- )",
+                "Markarova, Oksana"
+            ],
+            "geo_facet": [
+                "Ukraine",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26ukraine-us-01-jvcl/26ukraine-us-01-jvcl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mike Johnson, center, in Washington on Wednesday. He has accused Ukraine’s ambassador to Washington of meddling in American election affairs.",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26ukraine-us-01-jvcl/26ukraine-us-01-jvcl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mike Johnson, center, in Washington on Wednesday. He has accused Ukraine’s ambassador to Washington of meddling in American election affairs.",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/26ukraine-us-01-jvcl/26ukraine-us-01-jvcl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mike Johnson, center, in Washington on Wednesday. He has accused Ukraine’s ambassador to Washington of meddling in American election affairs.",
+                    "copyright": "Eric Lee/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Thursday Briefing: A Proposed Cease-Fire between Israel and Hezbollah",
+            "abstract": "Plus, 3,600-year-old cheese.",
+            "url": "https://www.nytimes.com/2024/09/26/briefing/israel-hezbollah-trump-eric-adams.html",
+            "uri": "nyt://article/57bc08c0-b149-5b83-a16d-2a4916ae85c8",
+            "byline": "By Justin Porter",
+            "item_type": "Article",
+            "updated_date": "2024-09-26T00:18:06-04:00",
+            "created_date": "2024-09-26T00:18:06-04:00",
+            "published_date": "2024-09-26T00:18:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/26ambriefing-europe-mideast-crisis/26ambriefing-europe-mideast-crisis-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2047,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The rubble of a damaged building after an Israeli strike in Sidon, Lebanon.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/26ambriefing-europe-mideast-crisis/26ambriefing-europe-mideast-crisis-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The rubble of a damaged building after an Israeli strike in Sidon, Lebanon.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/26ambriefing-europe-mideast-crisis/25mideast-crisis-carousel-Hilaniyeh1-qbkf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The rubble of a damaged building after an Israeli strike in Sidon, Lebanon.",
+                    "copyright": "Diego Ibarra Sanchez for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "On Ukraine’s Eastern Front, 100 Miles of High-Stakes Struggle",
+            "abstract": "Russian forces are pressing against an arc of strongholds in Ukraine’s Donetsk region, in a fight as intense as any in the war.",
+            "url": "https://www.nytimes.com/2024/09/26/world/europe/ukraine-eastern-front-line.html",
+            "uri": "nyt://article/3e845638-317c-5f4b-816a-62a468f9e622",
+            "byline": "By Marc Santora and Nicole Tung",
+            "item_type": "Article",
+            "updated_date": "2024-09-26T04:58:51-04:00",
+            "created_date": "2024-09-26T00:01:34-04:00",
+            "published_date": "2024-09-26T00:01:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Chasiv Yar (Ukraine)",
+                "Vuhledar (Ukraine)",
+                "Donbas (Ukraine)",
+                "Donetsk (Ukraine)",
+                "Ukraine",
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24Ukraine-Eastern-Front-promo/24Ukraine-Eastern-Front-Top-gvkt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Nicole Tung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24Ukraine-Eastern-Front-promo/24Ukraine-Eastern-Front-Top-gvkt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Nicole Tung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/24/multimedia/24Ukraine-Eastern-Front-promo/24Ukraine-Eastern-Front-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Nicole Tung for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "First It Was Lynch Mobs. Now Police Kill Pakistanis Accused of Blasphemy.",
+            "abstract": "The deaths of two men have reverberated across Pakistan, where the charge of insulting Islam has long been a sensitive issue.",
+            "url": "https://www.nytimes.com/2024/09/26/world/asia/pakistan-blasphemy.html",
+            "uri": "nyt://article/5e3b0586-d44a-53cd-84d0-44f029acc8fc",
+            "byline": "By Zia ur-Rehman",
+            "item_type": "Article",
+            "updated_date": "2024-09-26T00:01:15-04:00",
+            "created_date": "2024-09-26T00:01:15-04:00",
+            "published_date": "2024-09-26T00:01:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Blasphemy",
+                "Police",
+                "Demonstrations, Protests and Riots",
+                "Police Brutality, Misconduct and Shootings",
+                "Lynching",
+                "Muslims and Islam"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Pakistan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25pakistan-blasphemy-01-qpbw/25pakistan-blasphemy-01-qpbw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, the mother, wife and daughter of Shah Nawaz. The family has accused the police in southern Pakistan of killing Mr. Nawaz, a doctor who was accused of blasphemy.",
+                    "copyright": "Allah Bux/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25pakistan-blasphemy-01-qpbw/25pakistan-blasphemy-01-qpbw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, the mother, wife and daughter of Shah Nawaz. The family has accused the police in southern Pakistan of killing Mr. Nawaz, a doctor who was accused of blasphemy.",
+                    "copyright": "Allah Bux/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25pakistan-blasphemy-01-qpbw/25pakistan-blasphemy-01-qpbw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, the mother, wife and daughter of Shah Nawaz. The family has accused the police in southern Pakistan of killing Mr. Nawaz, a doctor who was accused of blasphemy.",
+                    "copyright": "Allah Bux/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "Mexican Senate Votes to Give Military Control of Civilian National Guard",
+            "abstract": "Mexico’s governing party says the guard would be more effective and less corrupt as part of the armed forces. Critics fear the increased militarization of civilian life and a spike in rights abuses.",
+            "url": "https://www.nytimes.com/2024/09/25/world/americas/mexico-national-guard-military-control.html",
+            "uri": "nyt://article/045b04b7-d744-5d30-8a81-1a125984a4fb",
+            "byline": "By Emiliano Rodríguez Mega",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T20:45:03-04:00",
+            "created_date": "2024-09-25T20:04:52-04:00",
+            "published_date": "2024-09-25T20:04:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Law and Legislation",
+                "Corruption (Institutional)",
+                "Defense and Military Forces",
+                "Constitutions",
+                "Police"
+            ],
+            "org_facet": [
+                "Morena (Mexican Political Party)"
+            ],
+            "per_facet": [
+                "Lopez Obrador, Andres Manuel",
+                "Sheinbaum, Claudia"
+            ],
+            "geo_facet": [
+                "Mexico"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mexico-military-zvlg/25mexico-military-zvlg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mexico’s National Guard, a force of some 130,000 members, would be put under the control of the country’s military if a constitutional amendment becomes law. ",
+                    "copyright": "Cristopher Rogel Blanquet/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mexico-military-zvlg/25mexico-military-zvlg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mexico’s National Guard, a force of some 130,000 members, would be put under the control of the country’s military if a constitutional amendment becomes law. ",
+                    "copyright": "Cristopher Rogel Blanquet/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mexico-military-zvlg/25mexico-military-zvlg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mexico’s National Guard, a force of some 130,000 members, would be put under the control of the country’s military if a constitutional amendment becomes law. ",
+                    "copyright": "Cristopher Rogel Blanquet/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Hezbollah Targets Tel Aviv as Israel Moves Forces Toward Lebanon",
+            "abstract": "A top Israeli military official hinted to soldiers of a possible ground invasion as the United States and France drafted a cease-fire proposal to try to stave off a broader conflict.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/israel-hezbollah-lebanon.html",
+            "uri": "nyt://article/5edf2c23-2aee-5c06-9a74-b967e77fa02d",
+            "byline": "By Liam Stack, Aaron Boxerman, Farnaz Fassihi and Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:09:30-04:00",
+            "created_date": "2024-09-25T19:28:57-04:00",
+            "published_date": "2024-09-25T19:28:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "War and Armed Conflicts",
+                "Israel-Gaza War (2023- )",
+                "Iran-Israel Proxy Conflict",
+                "International Relations"
+            ],
+            "org_facet": [
+                "Hezbollah"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel",
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-leadall-01-lfbw/25mideast-crisis-leadall-01-lfbw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A house that was hit by a rocket in Kibbutz Saar, in northern Israel, on Wednesday.",
+                    "copyright": "Baz Ratner/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-leadall-01-lfbw/25mideast-crisis-leadall-01-lfbw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A house that was hit by a rocket in Kibbutz Saar, in northern Israel, on Wednesday.",
+                    "copyright": "Baz Ratner/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-leadall-01-lfbw/25mideast-crisis-leadall-01-lfbw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A house that was hit by a rocket in Kibbutz Saar, in northern Israel, on Wednesday.",
+                    "copyright": "Baz Ratner/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Democrats and Republicans Press China on Abuse of Muslim Minority",
+            "abstract": "Both parties are focused on oppression of China’s Uyghur minority but use different tactics in pushing the Biden administration to do more.",
+            "url": "https://www.nytimes.com/2024/09/25/us/politics/congress-uyghurs-china.html",
+            "uri": "nyt://article/e7104707-45cc-54d8-b02c-5d378afe5c11",
+            "byline": "By Julian E. Barnes and Karoun Demirjian",
+            "item_type": "Article",
+            "updated_date": "2024-09-26T01:42:22-04:00",
+            "created_date": "2024-09-25T18:07:52-04:00",
+            "published_date": "2024-09-25T18:07:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Embargoes and Sanctions",
+                "United States International Relations",
+                "Law and Legislation",
+                "Human Rights and Human Rights Violations",
+                "Uighurs (Chinese Ethnic Group)"
+            ],
+            "org_facet": [
+                "House of Representatives"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25dc-uyghur-cpzt/25dc-uyghur-cpzt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of the Uyghur American Association rallying in front of the White House in support of the Uyghur Forced Labor Prevention Act in October 2020.",
+                    "copyright": "Jacquelyn Martin/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25dc-uyghur-cpzt/25dc-uyghur-cpzt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of the Uyghur American Association rallying in front of the White House in support of the Uyghur Forced Labor Prevention Act in October 2020.",
+                    "copyright": "Jacquelyn Martin/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25dc-uyghur-cpzt/25dc-uyghur-cpzt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of the Uyghur American Association rallying in front of the White House in support of the Uyghur Forced Labor Prevention Act in October 2020.",
+                    "copyright": "Jacquelyn Martin/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Some in Israeli Border Town Left Charred by Hezbollah Attacks Refuse to Flee",
+            "abstract": "Despite the danger, older residents, firefighters, medics and a few small-business owners chose to stay put in Kiryat Shmona, the northernmost Israeli city near the border with Lebanon.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/kiryat-shmona-border-town.html",
+            "uri": "nyt://article/6964bcbd-7e09-57d6-983c-2437b4602bc1",
+            "byline": "By Natan Odenheimer",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T18:24:17-04:00",
+            "created_date": "2024-09-25T18:02:05-04:00",
+            "published_date": "2024-09-25T18:02:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Defense and Military Forces",
+                "Israel-Gaza War (2023- )",
+                "Missiles and Missile Defense Systems",
+                "Iran-Israel Proxy Conflict",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "Hezbollah",
+                "Hamas",
+                "Security Council (UN)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Kiryat Shmona (Israel)",
+                "Lebanon",
+                "Iran",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-kiryat-shmona-top-blpg/25mideast-crisis-kiryat-shmona-top-blpg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vehicles destroyed by shrapnel from a missile fired by Hezbollah in Kiryat Shmona, in northern Israel, on Wednesday.",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-kiryat-shmona-top-blpg/25mideast-crisis-kiryat-shmona-top-blpg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vehicles destroyed by shrapnel from a missile fired by Hezbollah in Kiryat Shmona, in northern Israel, on Wednesday.",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-kiryat-shmona-top-blpg/25mideast-crisis-kiryat-shmona-top-blpg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vehicles destroyed by shrapnel from a missile fired by Hezbollah in Kiryat Shmona, in northern Israel, on Wednesday.",
+                    "copyright": "Avishag Shaar-Yashuv for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Thursday Briefing: The U.S. Pushes for a Cease-Fire in Lebanon",
+            "abstract": "Plus, 3,600-year-old cheese.",
+            "url": "https://www.nytimes.com/2024/09/25/briefing/ceasefire-lebanon-election-japan.html",
+            "uri": "nyt://article/1bce0e3b-c55c-5f3f-8628-8af8268ae87a",
+            "byline": "By Gaya Gupta",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T17:16:20-04:00",
+            "created_date": "2024-09-25T17:16:20-04:00",
+            "published_date": "2024-09-25T17:16:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/26ambriefing-asia-mideast/26ambriefing-asia-mideast-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli defense system intercepting missiles over northern Israel on Wednesday.",
+                    "copyright": "Atef Safadi/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/26ambriefing-asia-mideast/26ambriefing-asia-mideast-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli defense system intercepting missiles over northern Israel on Wednesday.",
+                    "copyright": "Atef Safadi/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/26ambriefing-asia-mideast/26ambriefing-asia-mideast-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli defense system intercepting missiles over northern Israel on Wednesday.",
+                    "copyright": "Atef Safadi/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Naftali Herstik, Renowned and Influential Cantor, Dies at 77",
+            "abstract": "Part of a long line of cantors, he led services at the Great Synagogue in Jerusalem for 30 years and helped train the next generation.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/naftali-herstik-dead.html",
+            "uri": "nyt://article/486abbc4-d60e-5de2-907a-3f1aee139d66",
+            "byline": "By Joseph Berger",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T18:20:58-04:00",
+            "created_date": "2024-09-25T16:51:20-04:00",
+            "published_date": "2024-09-25T16:51:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Synagogues",
+                "Jews and Judaism",
+                "Orthodox Judaism",
+                "Music",
+                "Holocaust and the Nazi Era"
+            ],
+            "org_facet": [
+                "Cantors Assembly"
+            ],
+            "per_facet": [
+                "Herstik, Naftali (1947-2024)"
+            ],
+            "geo_facet": [
+                "Jerusalem (Israel)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25Herstik-01-hqvf/25Herstik-01-hqvf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1500,
+                    "width": 1125,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Herstik, a colleague said, “was a cantor’s cantor.”",
+                    "copyright": "via the Milken Archive"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25Herstik-01-hqvf/25Herstik-01-hqvf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Herstik, a colleague said, “was a cantor’s cantor.”",
+                    "copyright": "via the Milken Archive"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25Herstik-01-hqvf/25Herstik-01-hqvf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Herstik, a colleague said, “was a cantor’s cantor.”",
+                    "copyright": "via the Milken Archive"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Zelensky Warns U.N. Against Conceding to Russia’s ‘Insane’ Desire for Land",
+            "abstract": "President Volodymyr Zelensky of Ukraine told the meeting of world leaders that capitulating to Russia would only give its president, Vladimir Putin, the “political space to continue the war.”",
+            "url": "https://www.nytimes.com/2024/09/25/world/europe/un-zelensky-ukraine-putin.html",
+            "uri": "nyt://article/b6ec9709-0a70-5944-81f7-965726e8209e",
+            "byline": "By Neil MacFarquhar and Farnaz Fassihi",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:48:11-04:00",
+            "created_date": "2024-09-25T16:40:46-04:00",
+            "published_date": "2024-09-25T16:40:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Israel-Gaza War (2023- )",
+                "Russian Invasion of Ukraine (2022)",
+                "Civilian Casualties",
+                "Humanitarian Aid"
+            ],
+            "org_facet": [
+                "General Assembly (UN)",
+                "Security Council (UN)",
+                "United Nations"
+            ],
+            "per_facet": [
+                "Erdogan, Recep Tayyip",
+                "Putin, Vladimir V",
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Sudan",
+                "Ukraine",
+                "Russia",
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25-unga-ledeall-01-jwvz/25-unga-ledeall-01-jwvz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Volodymyr Zelensky, the president of Ukraine, delivering remarks at the 79th session of the United Nations General Assembly in New York City on Wednesday.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25-unga-ledeall-01-jwvz/25-unga-ledeall-01-jwvz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Volodymyr Zelensky, the president of Ukraine, delivering remarks at the 79th session of the United Nations General Assembly in New York City on Wednesday.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25-unga-ledeall-01-jwvz/25-unga-ledeall-01-jwvz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Volodymyr Zelensky, the president of Ukraine, delivering remarks at the 79th session of the United Nations General Assembly in New York City on Wednesday.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Allied Countries Accuse Taliban of ‘Gross’ Violations of Women’s Rights",
+            "abstract": "Germany, Australia, Canada and the Netherlands said they will take the Taliban to the U.N.’s highest court because of its harsh restrictions on Afghan women.",
+            "url": "https://www.nytimes.com/2024/09/25/world/asia/taliban-afghanistan-womens-rights.html",
+            "uri": "nyt://article/17ea0afa-d3ea-55a2-85a8-8799db99297f",
+            "byline": "By Marlise Simons",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T17:46:44-04:00",
+            "created_date": "2024-09-25T16:25:45-04:00",
+            "published_date": "2024-09-25T16:25:45-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Women's Rights",
+                "Women and Girls",
+                "International Relations",
+                "Discrimination"
+            ],
+            "org_facet": [
+                "International Court of Justice (UN)",
+                "Taliban",
+                "United Nations"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Afghanistan",
+                "Germany",
+                "Netherlands",
+                "Australia",
+                "Canada"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25germany-afghan-1-vfkw/25germany-afghan-1-vfkw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "High school students in Kabul, Afghanistan, in 2022.",
+                    "copyright": "Bryan Denton for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25germany-afghan-1-vfkw/25germany-afghan-1-vfkw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "High school students in Kabul, Afghanistan, in 2022.",
+                    "copyright": "Bryan Denton for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25germany-afghan-1-vfkw/25germany-afghan-1-vfkw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "High school students in Kabul, Afghanistan, in 2022.",
+                    "copyright": "Bryan Denton for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "U.S. and Allies Propose Cease-Fire Between Israel and Hezbollah",
+            "abstract": "With fears growing of a wider regional war in the Middle East, the United States, European allies and Arab nations were working to broker a 21-day pause in the fighting.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/us-cease-fire-israel-hezbollah.html",
+            "uri": "nyt://article/353aaeff-1b16-564c-8909-569133273b67",
+            "byline": "By Michael D. Shear, Edward Wong and Farnaz Fassihi",
+            "item_type": "Article",
+            "updated_date": "2024-09-26T03:33:49-04:00",
+            "created_date": "2024-09-25T14:36:18-04:00",
+            "published_date": "2024-09-25T14:36:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "United States International Relations",
+                "Israel-Gaza War (2023- )",
+                "Defense and Military Forces",
+                "International Relations"
+            ],
+            "org_facet": [
+                "Hezbollah",
+                "Hamas"
+            ],
+            "per_facet": [
+                "Nasrallah, Hassan",
+                "Sinwar, Yehya",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Israel",
+                "Lebanon",
+                "Gaza Strip"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-prexy-zbqt/25mideast-crisis-prexy-zbqt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1360,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli strike in Khiam, Lebanon, on Wednesday. American diplomats are pushing for a cease-fire between Israel and Hezbollah.",
+                    "copyright": "Karamallah Daher/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-prexy-zbqt/25mideast-crisis-prexy-zbqt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli strike in Khiam, Lebanon, on Wednesday. American diplomats are pushing for a cease-fire between Israel and Hezbollah.",
+                    "copyright": "Karamallah Daher/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-prexy-zbqt/25mideast-crisis-prexy-zbqt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli strike in Khiam, Lebanon, on Wednesday. American diplomats are pushing for a cease-fire between Israel and Hezbollah.",
+                    "copyright": "Karamallah Daher/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Putin Declares Changes to Russian Nuclear Doctrine",
+            "abstract": "President Vladimir V. Putin heightened his warnings against the West, asserting that Russia should be permitted to use nuclear arms in the event of an attack by a nation backed by a nuclear power.",
+            "url": "https://www.nytimes.com/2024/09/25/world/europe/putin-russia-nuclear-doctrine.html",
+            "uri": "nyt://article/fa0c8add-7ed8-5542-8990-05fb382fb015",
+            "byline": "By Anton Troianovski and Ivan Nechepurenko",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T23:46:11-04:00",
+            "created_date": "2024-09-25T14:27:10-04:00",
+            "published_date": "2024-09-25T14:27:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Nuclear Weapons"
+            ],
+            "org_facet": [
+                "United Nations"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-russia-nukes-mczp/25unga-live-russia-nukes-mczp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Russian state news media footage showed President Vladimir V. Putin at a meeting with his top officials at the Kremlin on Wednesday.",
+                    "copyright": "Alexander Kazakov/Sputnik"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-russia-nukes-mczp/25unga-live-russia-nukes-mczp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Russian state news media footage showed President Vladimir V. Putin at a meeting with his top officials at the Kremlin on Wednesday.",
+                    "copyright": "Alexander Kazakov/Sputnik"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-russia-nukes-mczp/25unga-live-russia-nukes-mczp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Russian state news media footage showed President Vladimir V. Putin at a meeting with his top officials at the Kremlin on Wednesday.",
+                    "copyright": "Alexander Kazakov/Sputnik"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "In Switzerland, Reported Use of Suicide Capsule Inflames Debate",
+            "abstract": "The Swiss police said they had detained “several individuals” after a 64-year-old American woman reportedly died by suicide using the controversial device.",
+            "url": "https://www.nytimes.com/2024/09/25/world/europe/switzerland-sarco-capsule-suicide.html",
+            "uri": "nyt://article/af070df6-7a40-5594-a775-b545a2ea31e6",
+            "byline": "By Ali Watkins",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T15:37:59-04:00",
+            "created_date": "2024-09-25T14:16:43-04:00",
+            "published_date": "2024-09-25T14:16:43-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Euthanasia and Assisted Suicide"
+            ],
+            "org_facet": [
+                "Last Resort (Nonprofit)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Schaffhausen (Switzerland)",
+                "Switzerland"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25xp-swisspod-czvl/25xp-swisspod-czvl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Sarco capsule on display at a news conference in Zurich in July. ",
+                    "copyright": "Ennio Leanza/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25xp-swisspod-czvl/25xp-swisspod-czvl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Sarco capsule on display at a news conference in Zurich in July. ",
+                    "copyright": "Ennio Leanza/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25xp-swisspod-czvl/25xp-swisspod-czvl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Sarco capsule on display at a news conference in Zurich in July. ",
+                    "copyright": "Ennio Leanza/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "theater",
+            "subsection": "",
+            "title": "Exploring the Roots of Mideast Turbulence Onstage",
+            "abstract": "A retrospective in Paris honors Lina Majdalanie and Rabih Mroué, whose theater works have examined the region’s troubles for decades.",
+            "url": "https://www.nytimes.com/2024/09/25/theater/lina-majdalanie-rabih-mroue-middle-east.html",
+            "uri": "nyt://article/8e7cf9a9-9813-5c25-82ca-d6da77b813b5",
+            "byline": "By Laura Cappelle",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T16:05:38-04:00",
+            "created_date": "2024-09-25T12:57:05-04:00",
+            "published_date": "2024-09-25T12:57:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Theater",
+                "Israel-Gaza War (2023- )",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Majdalanie, Lina"
+            ],
+            "geo_facet": [
+                "Beirut (Lebanon)",
+                "Lebanon",
+                "Paris (France)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25lebanese-theater-profile-01-gcbv/25lebanese-theater-profile-01-gcbv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“We don’t tell stories. We think together,” said Rabih Mroué, right. He and his partner, Lina Majdalanie, left, were “interested in what underpins events,” Mroué said.",
+                    "copyright": "Elliott Verdier for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25lebanese-theater-profile-01-gcbv/25lebanese-theater-profile-01-gcbv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“We don’t tell stories. We think together,” said Rabih Mroué, right. He and his partner, Lina Majdalanie, left, were “interested in what underpins events,” Mroué said.",
+                    "copyright": "Elliott Verdier for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25lebanese-theater-profile-01-gcbv/25lebanese-theater-profile-01-gcbv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“We don’t tell stories. We think together,” said Rabih Mroué, right. He and his partner, Lina Majdalanie, left, were “interested in what underpins events,” Mroué said.",
+                    "copyright": "Elliott Verdier for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "What We Know About Hezbollah’s Military Capability",
+            "abstract": "The Iran-backed militants have perhaps the largest arsenal of any armed group in the world, excluding governments, experts say.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/hezbollah-military-capability.html",
+            "uri": "nyt://article/c978e343-aaf6-5447-ba71-51bb3f0cc5c8",
+            "byline": "By Matthew Mpoke Bigg",
+            "item_type": "Article",
+            "updated_date": "2024-09-26T03:23:53-04:00",
+            "created_date": "2024-09-25T12:40:45-04:00",
+            "published_date": "2024-09-25T12:40:45-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Missiles and Missile Defense Systems",
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "International Relations",
+                "Fringe Groups and Movements"
+            ],
+            "org_facet": [
+                "Hezbollah",
+                "Central Intelligence Agency",
+                "Hamas",
+                "Houthis",
+                "Mossad"
+            ],
+            "per_facet": [
+                "Nasrallah, Hassan"
+            ],
+            "geo_facet": [
+                "Lebanon",
+                "Iran",
+                "Kiryat Bialik (Israel)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-hezbollah-weapons-lhtw/25mideast-crisis-hezbollah-weapons-lhtw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A rocket hit a house in Sa’ar, Israel. ",
+                    "copyright": "Amir Levy/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-hezbollah-weapons-lhtw/25mideast-crisis-hezbollah-weapons-lhtw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A rocket hit a house in Sa’ar, Israel. ",
+                    "copyright": "Amir Levy/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-hezbollah-weapons-lhtw/25mideast-crisis-hezbollah-weapons-lhtw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A rocket hit a house in Sa’ar, Israel. ",
+                    "copyright": "Amir Levy/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Lebanon’s Growing Civilian Death Toll Includes Children and Rescue Workers",
+            "abstract": "Lebanese organizations have begun to identify children, humanitarians and journalists among a growing number of civilians killed in Israel’s intense bombardment.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/lebanon-civilian-death-toll-israel.html",
+            "uri": "nyt://article/dc7f1f1d-214c-5627-b245-ac675dfd2484",
+            "byline": "By Erika Solomon",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T12:35:22-04:00",
+            "created_date": "2024-09-25T11:40:48-04:00",
+            "published_date": "2024-09-25T11:40:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Iran-Israel Proxy Conflict",
+                "Civilian Casualties",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [
+                "Hezbollah",
+                "United Nations"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-lebanon-victims-vbfp/25mideast-crisis-lebanon-victims-vbfp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An impact crater from an Israeli strike in Jiyeh, Lebanon, on Wednesday.",
+                    "copyright": "Mahmoud Zayyat/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-lebanon-victims-vbfp/25mideast-crisis-lebanon-victims-vbfp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An impact crater from an Israeli strike in Jiyeh, Lebanon, on Wednesday.",
+                    "copyright": "Mahmoud Zayyat/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-lebanon-victims-vbfp/25mideast-crisis-lebanon-victims-vbfp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An impact crater from an Israeli strike in Jiyeh, Lebanon, on Wednesday.",
+                    "copyright": "Mahmoud Zayyat/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "What Is Zelensky’s ‘Victory Plan’ for Ukraine’s War With Russia?",
+            "abstract": "The Ukrainian leader aims to present President Biden with a strategy to improve his country’s position ahead of any peace negotiations with Russia.",
+            "url": "https://www.nytimes.com/2024/09/25/world/europe/zelensky-victory-plan-ukraine-russia-putin.html",
+            "uri": "nyt://article/9b2ab9b8-0db3-5c57-be1f-84c833ad029c",
+            "byline": "By Constant Méheut",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T10:49:46-04:00",
+            "created_date": "2024-09-25T08:54:11-04:00",
+            "published_date": "2024-09-25T08:54:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Zelensky, Volodymyr",
+                "Biden, Joseph R Jr",
+                "Thomas-Greenfield, Linda"
+            ],
+            "geo_facet": [
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-ukraine-plan-zpbq/25unga-live-ukraine-plan-zpbq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A railway substation that was partly destroyed by a Russian glide bomb, in Zaporizhzhia, Ukraine, on Tuesday.",
+                    "copyright": "Nicole Tung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-ukraine-plan-zpbq/25unga-live-ukraine-plan-zpbq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A railway substation that was partly destroyed by a Russian glide bomb, in Zaporizhzhia, Ukraine, on Tuesday.",
+                    "copyright": "Nicole Tung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-ukraine-plan-zpbq/25unga-live-ukraine-plan-zpbq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A railway substation that was partly destroyed by a Russian glide bomb, in Zaporizhzhia, Ukraine, on Tuesday.",
+                    "copyright": "Nicole Tung for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "space",
+            "title": "This Black Hole Has a Cosmic Wingspan",
+            "abstract": "Astronomers have discovered a black hole emitting energy in jets longer than the width of 140 Milky Way galaxies.",
+            "url": "https://www.nytimes.com/2024/09/25/science/space/black-hole-m87-energy.html",
+            "uri": "nyt://article/38d5e393-8d56-50f8-ad69-e72822835979",
+            "byline": "By Dennis Overbye",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T13:15:18-04:00",
+            "created_date": "2024-09-25T08:09:13-04:00",
+            "published_date": "2024-09-25T08:09:13-04:00",
+            "material_type_facet": "",
+            "kicker": "Out There",
+            "des_facet": [
+                "Space and Astronomy",
+                "Event Horizon Telescope",
+                "Black Holes (Space)",
+                "Stars and Galaxies",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Nature (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00SCI-PROPHYRION-promo/00SCI-PROPHYRION-promo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "E. Wernquist/D. Nelson (IllustrisTNG Collaboration)/M. Oei"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00SCI-PROPHYRION-promo/00SCI-PROPHYRION-promo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "E. Wernquist/D. Nelson (IllustrisTNG Collaboration)/M. Oei"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00SCI-PROPHYRION-promo/00SCI-PROPHYRION-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "E. Wernquist/D. Nelson (IllustrisTNG Collaboration)/M. Oei"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Fleeing Israeli Airstrikes in Lebanon, and Worrying About Where to Go Next",
+            "abstract": "After years of decline, Lebanon is ill-equipped to deal with a wave of displaced people. One family left their farm and found themselves homeless in Beirut.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/lebanon-strikes-refugees-displaced.html",
+            "uri": "nyt://article/6eab48c3-ed6b-58ea-8232-29b30d0f6299",
+            "byline": "By Vivian Yee",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T06:40:05-04:00",
+            "created_date": "2024-09-25T06:36:46-04:00",
+            "published_date": "2024-09-25T06:36:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Beirut (Lebanon)",
+                "Israel",
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-lebanon-evacuees-pjfl/25mideast-crisis-lebanon-evacuees-pjfl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shelter for displaced people at a school in Beirut on Tuesday.",
+                    "copyright": "Emilie Madi/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-lebanon-evacuees-pjfl/25mideast-crisis-lebanon-evacuees-pjfl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shelter for displaced people at a school in Beirut on Tuesday.",
+                    "copyright": "Emilie Madi/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-crisis-lebanon-evacuees-pjfl/25mideast-crisis-lebanon-evacuees-pjfl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shelter for displaced people at a school in Beirut on Tuesday.",
+                    "copyright": "Emilie Madi/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Tracing Dostoyevsky’s Wayward Path Through Three German Spa Towns",
+            "abstract": "The Russian novelist, a compulsive gambler, lost everything in the opulent spa and gambling towns of Baden-Baden, Bad Homburg and Wiesbaden. An admirer of his books follows his footsteps.",
+            "url": "https://www.nytimes.com/2024/09/25/travel/fyodor-dostoyevsky-german-spa-towns.html",
+            "uri": "nyt://article/f347f931-a5f9-5d28-b19c-6240d321241c",
+            "byline": "By Charly Wilder",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T10:20:30-04:00",
+            "created_date": "2024-09-25T05:00:36-04:00",
+            "published_date": "2024-09-25T05:00:36-04:00",
+            "material_type_facet": "",
+            "kicker": "Footsteps",
+            "des_facet": [
+                "Travel and Vacations",
+                "Writing and Writers",
+                "Books and Literature",
+                "Spas",
+                "Casinos"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Dostoyevsky, Fyodor"
+            ],
+            "geo_facet": [
+                "Baden-Baden (Germany)",
+                "Wiesbaden (Germany)",
+                "Bad Homburg (Germany)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/00Dostoyevsky-hmgq/00Dostoyevsky-hmgq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The casino in the Kurhaus at Baden-Baden, one of three spa towns where the 19th-century Russian novelist, Fyodor Dostoyevsky, gambled his money away.",
+                    "copyright": "Felix Schmitt for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/00Dostoyevsky-hmgq/00Dostoyevsky-hmgq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The casino in the Kurhaus at Baden-Baden, one of three spa towns where the 19th-century Russian novelist, Fyodor Dostoyevsky, gambled his money away.",
+                    "copyright": "Felix Schmitt for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/00Dostoyevsky-hmgq/00Dostoyevsky-hmgq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The casino in the Kurhaus at Baden-Baden, one of three spa towns where the 19th-century Russian novelist, Fyodor Dostoyevsky, gambled his money away.",
+                    "copyright": "Felix Schmitt for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israel Says It Shot Down Missile Over Tel Aviv",
+            "abstract": "The missile fired from Lebanon was the first time Hezbollah had launched an attack aimed at Tel Aviv, the military said.",
+            "url": "https://www.nytimes.com/2024/09/25/world/middleeast/tel-aviv-hezbollah-missile.html",
+            "uri": "nyt://article/f03843fc-ef40-59dd-8327-7ae642cd531b",
+            "byline": "By Victoria Kim, Gabby Sobelman and Aaron Boxerman",
+            "item_type": "Article",
+            "updated_date": "2024-09-25T06:10:34-04:00",
+            "created_date": "2024-09-25T01:56:16-04:00",
+            "published_date": "2024-09-25T01:56:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Missiles and Missile Defense Systems",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [
+                "Hezbollah"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel",
+                "Netanya (Israel)",
+                "Tel Aviv (Israel)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25xp-telaviv-2/25mideast-crisis-tel-aviv-twhg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli defense system intercepts a missile over Tel Aviv on Wednesday.",
+                    "copyright": "Amir Cohen/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25xp-telaviv-2/25mideast-crisis-tel-aviv-twhg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli defense system intercepts a missile over Tel Aviv on Wednesday.",
+                    "copyright": "Amir Cohen/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/25/multimedia/25xp-telaviv-2/25mideast-crisis-tel-aviv-twhg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli defense system intercepts a missile over Tel Aviv on Wednesday.",
+                    "copyright": "Amir Cohen/Reuters"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}

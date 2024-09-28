@@ -1,0 +1,1511 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "section": "Science",
+    "last_updated": "2024-09-18T16:45:50-04:00",
+    "num_results": 25,
+    "results": [
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Sign Up for the Science Times Newsletter",
+            "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+            "url": "null",
+            "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2018-04-07T13:23:25-04:00",
+            "created_date": "2016-02-05T18:18:53-05:00",
+            "published_date": "2016-02-05T18:18:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "‘Red Flags’ on Climate: U.S. Methane Emissions Keep Climbing",
+            "abstract": "Satellite data shows the U.S. releasing more and more of the potent greenhouse gas into the atmosphere, researchers said, despite pledges to cut back.",
+            "url": "https://www.nytimes.com/2024/09/19/climate/us-methane-greenhouse-gas.html",
+            "uri": "nyt://article/d103c692-0a69-5bc1-8c42-9d20ad550229",
+            "byline": "By Max Bearak",
+            "item_type": "Article",
+            "updated_date": "2024-09-19T05:01:19-04:00",
+            "created_date": "2024-09-19T05:01:19-04:00",
+            "published_date": "2024-09-19T05:01:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Methane",
+                "Natural Gas"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19cli-methane-kfqc/19cli-methane-kfqc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The concentration of methane in the atmosphere is now more than two-and-a-half times greater than preindustrial levels.",
+                    "copyright": "David Goldman/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19cli-methane-kfqc/19cli-methane-kfqc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The concentration of methane in the atmosphere is now more than two-and-a-half times greater than preindustrial levels.",
+                    "copyright": "David Goldman/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19cli-methane-kfqc/19cli-methane-kfqc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The concentration of methane in the atmosphere is now more than two-and-a-half times greater than preindustrial levels.",
+                    "copyright": "David Goldman/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Tyson Faces Lawsuit Over Labeling of ‘Climate-Smart’ Beef",
+            "abstract": "An environmental group said the company, a major food producer, was misleading shoppers with its claims about eco-friendly practices.",
+            "url": "https://www.nytimes.com/2024/09/18/climate/tyson-beef-climate-lawsuit.html",
+            "uri": "nyt://article/751da992-6997-58c7-a8e9-360c58e0db87",
+            "byline": "By Karen Zraick",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T22:33:30-04:00",
+            "created_date": "2024-09-18T14:35:35-04:00",
+            "published_date": "2024-09-18T14:35:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Suits and Litigation (Civil)",
+                "Meatpacking Plants and Slaughterhouses",
+                "Beef",
+                "Corporate Social Responsibility",
+                "Advertising and Marketing",
+                "Greenhouse Gas Emissions"
+            ],
+            "org_facet": [
+                "Environmental Working Group",
+                "Tyson Foods Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-beef-lawsuit-lbzg/18cli-beef-lawsuit-lbzg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazen Beef, a new Tyson Foods brand with packaging that uses the language “climate friendly.”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-beef-lawsuit-lbzg/18cli-beef-lawsuit-lbzg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazen Beef, a new Tyson Foods brand with packaging that uses the language “climate friendly.”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-beef-lawsuit-lbzg/18cli-beef-lawsuit-lbzg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazen Beef, a new Tyson Foods brand with packaging that uses the language “climate friendly.”",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Floods Wreak Havoc Across Four Continents",
+            "abstract": "Flooding events around the world share a common factor of an atmosphere made warmer by climate change. What can be done to help citizens prepare?",
+            "url": "https://www.nytimes.com/2024/09/18/climate/global-flooding-climate-change.html",
+            "uri": "nyt://article/31235f05-a672-5204-aeb3-a0aba850464c",
+            "byline": "By Austyn Gaffney and Somini Sengupta",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T16:26:30-04:00",
+            "created_date": "2024-09-18T14:33:19-04:00",
+            "published_date": "2024-09-18T14:33:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Landslides and Mudslides",
+                "Weather",
+                "Floods",
+                "Infrastructure (Public Works)",
+                "Disasters and Emergencies"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-global-flooding-01-cbtp/18cli-global-flooding-01-cbtp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The swollen Elbe river in Dresden, Germany, on Tuesday.",
+                    "copyright": "Filip Singer/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-global-flooding-01-cbtp/18cli-global-flooding-01-cbtp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The swollen Elbe river in Dresden, Germany, on Tuesday.",
+                    "copyright": "Filip Singer/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-global-flooding-01-cbtp/18cli-global-flooding-01-cbtp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The swollen Elbe river in Dresden, Germany, on Tuesday.",
+                    "copyright": "Filip Singer/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Bulletproofing America’s Classrooms",
+            "abstract": "Ballistic armor companies are marketing protective products designed for the military to parents and schools. Some people see the items as unsettling but prudent; others find them infuriating.",
+            "url": "https://www.nytimes.com/interactive/2024/09/18/science/bulletproofing-schools.html",
+            "uri": "nyt://interactive/68d35045-2918-5529-8b6d-aad2e9229f43",
+            "byline": "By Emily Baumgaertner and Alex Kalman",
+            "item_type": "Interactive",
+            "updated_date": "2024-09-18T15:25:18-04:00",
+            "created_date": "2024-09-18T11:02:08-04:00",
+            "published_date": "2024-09-18T11:02:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/science/bulletproofing-promo/bulletproofing-promo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 960,
+                    "width": 1440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/science/bulletproofing-promo/bulletproofing-promo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/science/bulletproofing-promo/bulletproofing-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "What R.F.K. Jr.’s Alliance With Trump Could Mean for Public Health",
+            "abstract": "Robert F. Kennedy Jr., who has long voiced doubts about vaccine safety, has hopes of influencing federal health policy. Could he finally get the chance?",
+            "url": "https://www.nytimes.com/2024/09/18/health/rfk-trump-public-health.html",
+            "uri": "nyt://article/777a0327-2fb8-549e-baef-8865afc07cdc",
+            "byline": "By Emily Baumgaertner",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T15:54:26-04:00",
+            "created_date": "2024-09-18T05:02:17-04:00",
+            "published_date": "2024-09-18T05:02:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Vaccination and Immunization",
+                "Medicine and Health",
+                "Rumors and Misinformation",
+                "United States Politics and Government",
+                "Presidential Election of 2024",
+                "Coronavirus (2019-nCoV)",
+                "Conspiracy Theories",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Children's Health Defense"
+            ],
+            "per_facet": [
+                "Kennedy, Robert F Jr"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1362,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+                    "copyright": "Rachel Woolf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-threeByTwoSmallAt2X-v3.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+                    "copyright": "Rachel Woolf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+                    "copyright": "Rachel Woolf for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "How Colorado Cowboys and Conservationists Joined Forces to Stop Drilling",
+            "abstract": "The members of a self-described ragtag group had little in common, but their campaign could serve as model for future environmental efforts.",
+            "url": "https://www.nytimes.com/2024/09/18/climate/colorado-thompson-divide-oil-gas.html",
+            "uri": "nyt://article/35b1333d-1a31-5a1a-b9f2-c9f838704af2",
+            "byline": "By Zoë Rom and Eli Imadali",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T22:51:37-04:00",
+            "created_date": "2024-09-18T05:00:51-04:00",
+            "published_date": "2024-09-18T05:00:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Land Use Policies",
+                "Federal Lands",
+                "Forests and Forestry",
+                "Conservation of Resources",
+                "Drilling and Boring",
+                "Natural Gas",
+                "Oil (Petroleum) and Gasoline",
+                "Environment",
+                "Wilderness Areas",
+                "Cowboys and Cowgirls",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Colorado",
+                "White River National Forest (Colo)",
+                "Thompson Divide (Colo)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eli Imadali for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eli Imadali for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eli Imadali for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "insider",
+            "subsection": "",
+            "title": "Plastic Waste and Toxic Sludge: A Sweep of a Messy Beat",
+            "abstract": "The Climate reporter Hiroko Tabuchi is interested in all the things we take for granted about our environment.",
+            "url": "https://www.nytimes.com/2024/09/18/insider/pollution-effects.html",
+            "uri": "nyt://article/e95ab4e1-1093-533e-9d82-c5a225a5d077",
+            "byline": "By Josh Ocampo",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T03:00:09-04:00",
+            "created_date": "2024-09-18T03:00:09-04:00",
+            "published_date": "2024-09-18T03:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "Times Insider",
+            "des_facet": [
+                "Earth",
+                "PFAS (Per- and Polyfluoroalkyl Substances)",
+                "Recycling of Waste Materials",
+                "Air Pollution",
+                "Pollution",
+                "Water Pollution"
+            ],
+            "org_facet": [
+                "Fukushima Daiichi Nuclear Power Plant (Japan)"
+            ],
+            "per_facet": [
+                "Tabuchi, Hiroko"
+            ],
+            "geo_facet": [
+                "Fukushima (Japan)",
+                "Honshu (Japan)",
+                "Japan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18a2_insider-zjqc/18a2_insider-zjqc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2019, the reporter Hiroko Tabuchi traveled to Texas to report on large amounts of methane escaping from oil and gas sites.",
+                    "copyright": "Jonah M. Kessel/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18a2_insider-zjqc/18a2_insider-zjqc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2019, the reporter Hiroko Tabuchi traveled to Texas to report on large amounts of methane escaping from oil and gas sites.",
+                    "copyright": "Jonah M. Kessel/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18a2_insider-zjqc/18a2_insider-zjqc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2019, the reporter Hiroko Tabuchi traveled to Texas to report on large amounts of methane escaping from oil and gas sites.",
+                    "copyright": "Jonah M. Kessel/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Deep Links Between Alcohol and Cancer Are Described in New Report",
+            "abstract": "Scientists continue to rethink the idea that moderate drinking offers health benefits.",
+            "url": "https://www.nytimes.com/2024/09/18/health/alcohol-cancer-young-adults.html",
+            "uri": "nyt://article/d015e7af-2857-51d9-b63f-3a62777de3ca",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T23:00:09-04:00",
+            "created_date": "2024-09-18T02:10:33-04:00",
+            "published_date": "2024-09-18T02:10:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Colon and Colorectal Cancer",
+                "Alcoholic Beverages",
+                "Deaths (Fatalities)",
+                "Breast Cancer",
+                "Cancer",
+                "Digestive Tract",
+                "Esophageal Cancer",
+                "Heart",
+                "Research",
+                "Wines",
+                "Head and Neck Cancer",
+                "Breasts",
+                "Estrogen",
+                "Colon"
+            ],
+            "org_facet": [
+                "American Assn for Cancer Research"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+                    "copyright": "Karsten Moran for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+                    "copyright": "Karsten Moran for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+                    "copyright": "Karsten Moran for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Flooding in Europe Is a ‘Clear Reminder’ of the Threat of Extreme Weather",
+            "abstract": "Climate change is influencing extreme weather events like the flooding across six countries that has led to mass evacuations of cities as the waters continue to rise.",
+            "url": "https://www.nytimes.com/2024/09/18/climate/central-europe-floods-global-warming.html",
+            "uri": "nyt://article/53220df1-5f7e-5866-9ce5-9b645a1d69a4",
+            "byline": "By Austyn Gaffney",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T08:38:46-04:00",
+            "created_date": "2024-09-18T00:01:06-04:00",
+            "published_date": "2024-09-18T00:01:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Floods",
+                "Rain",
+                "Disasters and Emergencies"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Central Europe"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-river-flooding-hwzq/18cli-river-flooding-hwzq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue workers evacuating flooded areas in Ostrava, Czech Republic, on Monday.",
+                    "copyright": "David W Cerny/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-river-flooding-hwzq/18cli-river-flooding-hwzq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue workers evacuating flooded areas in Ostrava, Czech Republic, on Monday.",
+                    "copyright": "David W Cerny/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-river-flooding-hwzq/18cli-river-flooding-hwzq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue workers evacuating flooded areas in Ostrava, Czech Republic, on Monday.",
+                    "copyright": "David W Cerny/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "A Supermoon and Lunar Eclipse Will Light Up and Darken Tuesday’s Night Sky",
+            "abstract": "Earth’s shadow will partially cover one of the biggest and brightest full moons this year.",
+            "url": "https://www.nytimes.com/2024/09/17/science/lunar-eclipse-supermoon.html",
+            "uri": "nyt://article/d3da59c8-aa98-5fc1-b2a6-30b04ef15528",
+            "byline": "By Katrina Miller",
+            "item_type": "Article",
+            "updated_date": "2024-09-17T14:09:37-04:00",
+            "created_date": "2024-09-17T05:03:29-04:00",
+            "published_date": "2024-09-17T05:03:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Eclipses",
+                "Moon",
+                "Sun",
+                "Space and Astronomy",
+                "Solar System"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17eclipse-supermoon-vjkl/17eclipse-supermoon-vjkl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1149,
+                    "width": 1723,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partial lunar eclipse over Sana, Yemen, last October.",
+                    "copyright": "Yahya Arhab/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17eclipse-supermoon-vjkl/17eclipse-supermoon-vjkl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partial lunar eclipse over Sana, Yemen, last October.",
+                    "copyright": "Yahya Arhab/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17eclipse-supermoon-vjkl/17eclipse-supermoon-vjkl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A partial lunar eclipse over Sana, Yemen, last October.",
+                    "copyright": "Yahya Arhab/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "How Does Pregnancy Change the Brain? Clues Are Emerging.",
+            "abstract": "As hormones surge, some brain areas shrink in what scientists say may be a fine-tuning that helps mothers bond with and care for their babies.",
+            "url": "https://www.nytimes.com/2024/09/16/health/pregnancy-brain-changes.html",
+            "uri": "nyt://article/9977b31a-6536-525f-87d1-4acace15188e",
+            "byline": "By Pam Belluck",
+            "item_type": "Article",
+            "updated_date": "2024-09-17T23:18:56-04:00",
+            "created_date": "2024-09-16T11:00:07-04:00",
+            "published_date": "2024-09-16T11:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Brain",
+                "Research",
+                "Pregnancy and Childbirth",
+                "Parenting",
+                "Hormones",
+                "Women and Girls",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Nature Neuroscience (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16PregnancyBrain-fwqm/16PregnancyBrain-fwqm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1264,
+                    "width": 1896,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brain scans of a woman during pregnancy showed that some areas shrink, possibly becoming more specialized, while neurological fibers appear to show temporarily improved communication.",
+                    "copyright": "Daniela Cossio"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16PregnancyBrain-fwqm/16PregnancyBrain-fwqm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brain scans of a woman during pregnancy showed that some areas shrink, possibly becoming more specialized, while neurological fibers appear to show temporarily improved communication.",
+                    "copyright": "Daniela Cossio"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16PregnancyBrain-fwqm/16PregnancyBrain-fwqm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brain scans of a woman during pregnancy showed that some areas shrink, possibly becoming more specialized, while neurological fibers appear to show temporarily improved communication.",
+                    "copyright": "Daniela Cossio"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "First Day of a ‘New Life’ for a Boy With Sickle Cell",
+            "abstract": "Kendric Cromer, 12, is among the first patients to be treated with gene therapy just approved by the F.D.A. that many other patients face obstacles to receiving.",
+            "url": "https://www.nytimes.com/2024/09/16/health/sickle-cell-gene-therapy-kendric-cromer.html",
+            "uri": "nyt://article/edf5386e-9d71-5af9-9e23-13bdd6f211fb",
+            "byline": "By Gina Kolata and Kenny Holston",
+            "item_type": "Article",
+            "updated_date": "2024-09-17T08:25:29-04:00",
+            "created_date": "2024-09-16T10:37:52-04:00",
+            "published_date": "2024-09-16T10:37:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sickle Cell Anemia",
+                "Genetic Engineering",
+                "Therapy and Rehabilitation",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [
+                "Bluebird Bio Inc",
+                "Children's National Medical Center"
+            ],
+            "per_facet": [
+                "Cromer, Kendric"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13-sickle-cell-01-pmjq/13-sickle-cell-01-pmjq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kendric Cromer undergoing infusion gene therapy for his sickle cell disease at Children’s National Hospital in Washington last week.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13-sickle-cell-01-pmjq/13-sickle-cell-01-pmjq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kendric Cromer undergoing infusion gene therapy for his sickle cell disease at Children’s National Hospital in Washington last week.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13-sickle-cell-01-pmjq/13-sickle-cell-01-pmjq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kendric Cromer undergoing infusion gene therapy for his sickle cell disease at Children’s National Hospital in Washington last week.",
+                    "copyright": "Kenny Holston/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Titan Submersible Company Neglected Safety Concerns, Ex-Employees Say",
+            "abstract": "Former employees of the company, OceanGate, said they worried about its practices long before a fatal implosion that killed five people. A Coast Guard hearing resumes on Tuesday.",
+            "url": "https://www.nytimes.com/2024/09/16/us/titan-submersible-coast-guard-hearings.html",
+            "uri": "nyt://article/5b4cdeca-c115-510c-8498-c0d6735aa41c",
+            "byline": "By Nicholas Bogel-Burroughs and William J. Broad",
+            "item_type": "Article",
+            "updated_date": "2024-09-19T05:39:41-04:00",
+            "created_date": "2024-09-16T05:04:00-04:00",
+            "published_date": "2024-09-16T05:04:00-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Maritime Accidents and Safety",
+                "Submarines and Submersibles",
+                "Titanic (Ship)"
+            ],
+            "org_facet": [
+                "OceanGate Expeditions (Argus Expeditions Ltd)",
+                "United States Coast Guard"
+            ],
+            "per_facet": [
+                "Rush, Stockton (1962-2023)",
+                "Dawood, Shahzada (1975-2023)",
+                "Harding, Hamish (1964-2023)",
+                "Nargeolet, Paul-Henri (1946-2023)"
+            ],
+            "geo_facet": [
+                "Atlantic Ocean"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16NAT-TITAN-lzbg/16NAT-TITAN-lzbg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1157,
+                    "width": 1694,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Titan submersible in an undated photo at the beginning of a dive.",
+                    "copyright": "Imago/OceanGate Expeditions, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16NAT-TITAN-lzbg/16NAT-TITAN-lzbg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Titan submersible in an undated photo at the beginning of a dive.",
+                    "copyright": "Imago/OceanGate Expeditions, via Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16NAT-TITAN-lzbg/16NAT-TITAN-lzbg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Titan submersible in an undated photo at the beginning of a dive.",
+                    "copyright": "Imago/OceanGate Expeditions, via Alamy"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Dr. George Berci, Whose Innovations Changed Surgery, Dies at 103",
+            "abstract": "He conceived many of the techniques and tools that have revolutionized minimally invasive operations and procedures.",
+            "url": "https://www.nytimes.com/2024/09/15/science/george-berci-dead.html",
+            "uri": "nyt://article/c81e8426-4ec1-5364-91b2-762d2524b180",
+            "byline": "By Richard Sandomir",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T22:36:50-04:00",
+            "created_date": "2024-09-15T16:58:04-04:00",
+            "published_date": "2024-09-15T16:58:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Surgery and Surgeons",
+                "Innovation",
+                "Digestive Tract",
+                "Holocaust and the Nazi Era"
+            ],
+            "org_facet": [
+                "Cedars-Sinai Medical Center"
+            ],
+            "per_facet": [
+                "Berci, George (1921-2024)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/13Berci-02-jcfh/13Berci-02-jcfh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1462,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. George Berci in 2018 at Cedars-Sinai Medical Center in Los Angeles, where he was the senior director of minimally invasive surgery until earlier this summer. ",
+                    "copyright": "Cedars-Sinai"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/13Berci-02-jcfh/13Berci-02-jcfh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. George Berci in 2018 at Cedars-Sinai Medical Center in Los Angeles, where he was the senior director of minimally invasive surgery until earlier this summer. ",
+                    "copyright": "Cedars-Sinai"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/13Berci-02-jcfh/13Berci-02-jcfh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. George Berci in 2018 at Cedars-Sinai Medical Center in Los Angeles, where he was the senior director of minimally invasive surgery until earlier this summer. ",
+                    "copyright": "Cedars-Sinai"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Three Medical Practices That Older Patients Should Question",
+            "abstract": "Some treatments and procedures become routine despite lacking strong evidence to show that they’re beneficial. Recent studies have called a few into question.",
+            "url": "https://www.nytimes.com/2024/09/14/health/medical-practices-treatments-patients.html",
+            "uri": "nyt://article/7ffaf746-b1dc-5933-b7b9-7df611261925",
+            "byline": "By Paula Span",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T04:21:30-04:00",
+            "created_date": "2024-09-14T05:03:01-04:00",
+            "published_date": "2024-09-14T05:03:01-04:00",
+            "material_type_facet": "",
+            "kicker": "the new old age",
+            "des_facet": [
+                "Elderly",
+                "Medicine and Health",
+                "Dementia",
+                "Heart",
+                "Surgery and Surgeons",
+                "Spine (Body Part)",
+                "Pain",
+                "Research"
+            ],
+            "org_facet": [
+                "Feinstein Institutes for Medical Research"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1355,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "John P. Dessereau"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "John P. Dessereau"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/science/17sci-span-challenged-practices/17sci-span-challenged-practices-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "John P. Dessereau"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Missouri Bird Flu Case Raises Prospect of Human Transmission",
+            "abstract": "A close contact of someone with bird flu became ill on the same day, the C.D.C. reported. But the second person was not tested, and the cause of the illness is unknown.",
+            "url": "https://www.nytimes.com/2024/09/13/health/bird-flu-missouri.html",
+            "uri": "nyt://article/25108b3d-beb7-5727-99ce-29cdfc17f384",
+            "byline": "By Apoorva Mandavilli and Emily Anthes",
+            "item_type": "Article",
+            "updated_date": "2024-09-15T15:41:11-04:00",
+            "created_date": "2024-09-13T19:08:34-04:00",
+            "published_date": "2024-09-13T19:08:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Avian Influenza",
+                "Disease Rates",
+                "Cattle",
+                "Birds",
+                "Viruses",
+                "Influenza",
+                "Livestock Diseases"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Missouri"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13bird-flu-kjbv/13bird-flu-kjbv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron microscope image of an avian influenza H5N1 virion.",
+                    "copyright": "Jackie Katz Cynthia Goldsmith/C.D.C., via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13bird-flu-kjbv/13bird-flu-kjbv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron microscope image of an avian influenza H5N1 virion.",
+                    "copyright": "Jackie Katz Cynthia Goldsmith/C.D.C., via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13bird-flu-kjbv/13bird-flu-kjbv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An electron microscope image of an avian influenza H5N1 virion.",
+                    "copyright": "Jackie Katz Cynthia Goldsmith/C.D.C., via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "W.H.O. Authorizes Mpox Vaccine, Clearing Way for Use in Africa",
+            "abstract": "The decision is a crucial step in getting shots to the Democratic Republic of Congo, the center of the outbreak.",
+            "url": "https://www.nytimes.com/2024/09/13/health/mpox-vaccine-world-health-organization.html",
+            "uri": "nyt://article/255c6277-c3eb-5432-a2db-ae1e035a7180",
+            "byline": "By Stephanie Nolen",
+            "item_type": "Article",
+            "updated_date": "2024-09-13T21:49:12-04:00",
+            "created_date": "2024-09-13T19:05:03-04:00",
+            "published_date": "2024-09-13T19:05:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Monkeypox",
+                "Epidemics",
+                "Government Contracts and Procurement",
+                "Developing Countries",
+                "Medicine and Health"
+            ],
+            "org_facet": [
+                "Gavi, the Vaccine Alliance",
+                "Bavarian Nordic AS"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Congo, Democratic Republic of (Congo-Kinshasa)",
+                "Africa"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/xx-mpox-vaccine-01-hfqj/xx-mpox-vaccine-01-hfqj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1362,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Jynneos vaccine, made by Bavarian Nordic, has been approved in Europe as well as the United States and other high-income countries since a global mpox outbreak in 2022.",
+                    "copyright": "Rungroj Yongrit/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/xx-mpox-vaccine-01-hfqj/xx-mpox-vaccine-01-hfqj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Jynneos vaccine, made by Bavarian Nordic, has been approved in Europe as well as the United States and other high-income countries since a global mpox outbreak in 2022.",
+                    "copyright": "Rungroj Yongrit/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/xx-mpox-vaccine-01-hfqj/xx-mpox-vaccine-01-hfqj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Jynneos vaccine, made by Bavarian Nordic, has been approved in Europe as well as the United States and other high-income countries since a global mpox outbreak in 2022.",
+                    "copyright": "Rungroj Yongrit/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Starliner Astronauts Say What They’ll Miss During Extended Stay in Space",
+            "abstract": "Suni Williams and Butch Wilmore of NASA spoke from the International Space Station for the first time since their Boeing orbital transport returned to Earth uncrewed.",
+            "url": "https://www.nytimes.com/2024/09/13/science/boeing-starliner-astronauts-wilmore-williams.html",
+            "uri": "nyt://article/0c9dc44c-c1f9-5443-b2ec-0094534f4b2e",
+            "byline": "By Katrina Miller and Kenneth Chang",
+            "item_type": "Article",
+            "updated_date": "2024-09-14T11:23:53-04:00",
+            "created_date": "2024-09-13T17:12:15-04:00",
+            "published_date": "2024-09-13T17:12:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Space Station",
+                "Space and Astronomy",
+                "Private Spaceflight",
+                "Rocket Science and Propulsion"
+            ],
+            "org_facet": [
+                "Boeing Company",
+                "National Aeronautics and Space Administration"
+            ],
+            "per_facet": [
+                "Williams, Sunita L",
+                "Wilmore, Barry E (Butch) (1962- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/science/13ASTRONAUTS2/13ASTRONAUTS2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The NASA astronauts Suni Williams and Butch Wilmore talked to the news media from the International Space Station on Friday.",
+                    "copyright": "NASA Video"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/science/13ASTRONAUTS2/13ASTRONAUTS2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The NASA astronauts Suni Williams and Butch Wilmore talked to the news media from the International Space Station on Friday.",
+                    "copyright": "NASA Video"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/science/13ASTRONAUTS2/13ASTRONAUTS2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The NASA astronauts Suni Williams and Butch Wilmore talked to the news media from the International Space Station on Friday.",
+                    "copyright": "NASA Video"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Boar’s Head Shuts Down Virginia Plant Tied to Listeria Deaths",
+            "abstract": "The company said that the site would close indefinitely and that it would permanently stop making liverwurst. Union officials said the plant’s 500 workers would be given severance and offered relocation.",
+            "url": "https://www.nytimes.com/2024/09/13/health/boars-head-shutdown-listeria-deaths.html",
+            "uri": "nyt://article/1fb8ff3c-3da5-5ccb-8f9d-23f22ba411cf",
+            "byline": "By Christina Jewett and Teddy Rosenbluth",
+            "item_type": "Article",
+            "updated_date": "2024-09-14T13:20:06-04:00",
+            "created_date": "2024-09-13T12:38:06-04:00",
+            "published_date": "2024-09-13T12:38:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Meatpacking Plants and Slaughterhouses",
+                "Food Contamination and Poisoning",
+                "Listeria Monocytogenes",
+                "Recalls and Bans of Products",
+                "Shutdowns (Institutional)",
+                "Deaths (Fatalities)",
+                "Labor and Jobs",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Boar's Head Brand",
+                "Agriculture Department"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Jarratt (Va)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13BOARS-SHUTDOWN-bzft/13BOARS-SHUTDOWN-bzft-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Boar’s Head announced that it would close the plant in Jarratt, Va., indefinitely.",
+                    "copyright": "Steve Helber/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13BOARS-SHUTDOWN-bzft/13BOARS-SHUTDOWN-bzft-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 399,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Boar’s Head announced that it would close the plant in Jarratt, Va., indefinitely.",
+                    "copyright": "Steve Helber/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13BOARS-SHUTDOWN-bzft/13BOARS-SHUTDOWN-bzft-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Boar’s Head announced that it would close the plant in Jarratt, Va., indefinitely.",
+                    "copyright": "Steve Helber/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "The Big City Is Vibrant. Birds There Might Be Getting Less So.",
+            "abstract": "Recent studies show that certain feather pigments can help neutralize toxic pollution. It means darker, duller birds could have a survival advantage.",
+            "url": "https://www.nytimes.com/2024/09/13/climate/dirty-birds-color-climate-pollution.html",
+            "uri": "nyt://article/31f5999d-28fe-583a-8f2e-da9b6a919973",
+            "byline": "By Marta Zaraska",
+            "item_type": "Article",
+            "updated_date": "2024-09-13T21:54:27-04:00",
+            "created_date": "2024-09-13T09:37:34-04:00",
+            "published_date": "2024-09-13T09:37:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Birds",
+                "Feathers",
+                "Anatomy and Physiology",
+                "Urban Areas",
+                "Pollution",
+                "Lead",
+                "Hazardous and Toxic Substances",
+                "Research"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13cli-dirtybirds-03-mpwh/13cli-dirtybirds-03-mpwh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Great tits, a common species in Europe, that were part of a study on urban birds in Malmo, Sweden.",
+                    "copyright": "Caroline Isaksson"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13cli-dirtybirds-03-mpwh/13cli-dirtybirds-03-mpwh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Great tits, a common species in Europe, that were part of a study on urban birds in Malmo, Sweden.",
+                    "copyright": "Caroline Isaksson"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/13cli-dirtybirds-03-mpwh/13cli-dirtybirds-03-mpwh-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Great tits, a common species in Europe, that were part of a study on urban birds in Malmo, Sweden.",
+                    "copyright": "Caroline Isaksson"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "A New Mini-Moon Is Being Captured by Planet Earth",
+            "abstract": "It’s just a little guy, and not everyone agrees that it’s actually a mini-moon.",
+            "url": "https://www.nytimes.com/2024/09/12/science/new-mini-moon-earth-orbit.html",
+            "uri": "nyt://article/ee7be413-62c6-5510-ba76-acc3fc2b92c5",
+            "byline": "By Robin George Andrews",
+            "item_type": "Article",
+            "updated_date": "2024-09-17T16:42:22-04:00",
+            "created_date": "2024-09-12T16:39:55-04:00",
+            "published_date": "2024-09-12T16:39:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Asteroids",
+                "Moon",
+                "Space and Astronomy",
+                "Earth",
+                "Solar System",
+                "Gravitation and Gravity",
+                "Research"
+            ],
+            "org_facet": [
+                "American Astronomical Society"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/11/autossell/11sci-mini-moon-still/11sci-mini-moon-still-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1112,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Dunn"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/11/autossell/11sci-mini-moon-still/11sci-mini-moon-still-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Dunn"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/11/autossell/11sci-mini-moon-still/11sci-mini-moon-still-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tony Dunn"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "This Chatbot Pulls People Away From Conspiracy Theories",
+            "abstract": "In a new study, many people doubted or abandoned false beliefs after a short conversation with the DebunkBot.",
+            "url": "https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html",
+            "uri": "nyt://article/f35b415d-f726-5895-9192-66a60999a799",
+            "byline": "By Teddy Rosenbluth",
+            "item_type": "Article",
+            "updated_date": "2024-09-13T12:00:29-04:00",
+            "created_date": "2024-09-12T14:30:55-04:00",
+            "published_date": "2024-09-12T14:30:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Rumors and Misinformation",
+                "Conspiracy Theories",
+                "Research",
+                "Psychology and Psychologists",
+                "internal-storyline-no",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Science (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/12/science/12chatbot-persuade/12chatbot-persuade-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1355,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Buzz Aldrin, left, and Neil Armstrong practiced during a rehearsal for the moon landing in April 1969. One conspiracy theory holds that the event was staged. ",
+                    "copyright": "JSC/NASA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/12/science/12chatbot-persuade/12chatbot-persuade-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Buzz Aldrin, left, and Neil Armstrong practiced during a rehearsal for the moon landing in April 1969. One conspiracy theory holds that the event was staged. ",
+                    "copyright": "JSC/NASA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/12/science/12chatbot-persuade/12chatbot-persuade-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Buzz Aldrin, left, and Neil Armstrong practiced during a rehearsal for the moon landing in April 1969. One conspiracy theory holds that the event was staged. ",
+                    "copyright": "JSC/NASA"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Elevated Lead Levels Found in One-Third of Cinnamon Samples",
+            "abstract": "Consumer Reports found lead in a variety of products, at a time when federal regulators are seeking authority from Congress to combat the problem of heavy metals in foods.",
+            "url": "https://www.nytimes.com/2024/09/12/health/lead-cinnamon.html",
+            "uri": "nyt://article/8cbfb859-906d-52a9-8684-7ad8bd536ec4",
+            "byline": "By Christina Jewett",
+            "item_type": "Article",
+            "updated_date": "2024-09-14T22:31:13-04:00",
+            "created_date": "2024-09-12T13:06:05-04:00",
+            "published_date": "2024-09-12T13:06:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Regulation and Deregulation of Industry",
+                "Poisoning and Poisons",
+                "Cinnamon (Spice)",
+                "Food Contamination and Poisoning",
+                "Lead",
+                "Recalls and Bans of Products",
+                "Hazardous and Toxic Substances",
+                "Food",
+                "United States Politics and Government",
+                "Baby Foods"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention",
+                "Consumer Reports",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/12/science/12Lead-Cinnamon/12Lead-Cinnamon-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1917,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cinnamon products identified by the Food and Drug Administration in March as having high levels of lead.",
+                    "copyright": "U.S. Food and Drug Administration"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/12/science/12Lead-Cinnamon/12Lead-Cinnamon-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cinnamon products identified by the Food and Drug Administration in March as having high levels of lead.",
+                    "copyright": "U.S. Food and Drug Administration"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/12/science/12Lead-Cinnamon/12Lead-Cinnamon-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cinnamon products identified by the Food and Drug Administration in March as having high levels of lead.",
+                    "copyright": "U.S. Food and Drug Administration"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}
